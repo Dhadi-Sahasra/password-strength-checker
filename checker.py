@@ -1,5 +1,5 @@
 import re
-
+# Password evaluation and validation functions
 def evaluate_password_strength(password):
     # Heuristic rules evaluation
     length_ok = len(password) >= 8
