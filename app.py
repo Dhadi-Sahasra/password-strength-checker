@@ -1,6 +1,6 @@
 from flask import Flask, render_template, jsonify, request
 import re
-
+# Main application logic
 app = Flask(__name__)
 
 @app.route('/')
