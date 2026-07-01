@@ -42,3 +42,34 @@ This project is a comprehensive Password Strength Checker application built usin
 2. Install Flask:
    ```bash
    pip install flask
+ ```
+
+3. Run the application:
+
+```bash
+python app.py
+```
+
+4. Open your browser and visit:
+
+```
+http://127.0.0.1:5000
+```
+
+## Project Structure
+
+```text
+password-strength-checker/
+│
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   ├── style.css
+│   ├── script.js
+│   └── images/
+│       ├── weak.png
+│       ├── medium.png
+│       └── strong.png
+└── README.md
+```  
