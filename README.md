@@ -73,3 +73,9 @@ password-strength-checker/
 │       └── strong.png
 └── README.md
 ```  
+
+## Educational Purpose
+This project was developed as part of the **CodeTech IT Solutions Internship Program**. It is intended for educational purposes to demonstrate basic network port scanning concepts. Only scan systems that you own or have explicit permission to test.
+
+## Repository
+Created as part of the **CodeTech IT Solutions Internship Program**.
