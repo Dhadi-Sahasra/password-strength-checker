@@ -1,6 +1,5 @@
 # Password Strength Checker Project
 
-
 ## Intern Details
 * **Name:** Dhadi Sahasra
 * **Intern ID:** CITS2671
